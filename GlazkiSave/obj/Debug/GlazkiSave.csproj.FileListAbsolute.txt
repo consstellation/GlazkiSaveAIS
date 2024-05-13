@@ -1,0 +1,62 @@
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\GlazkiSave.exe.config
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\GlazkiSave.exe
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\GlazkiSave.pdb
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\StyleProject.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\MainWindow.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\App.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave_MarkupCompile.cache
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave_MarkupCompile.lref
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\App.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\MainWindow.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.g.resources
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.Properties.Resources.resources
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.csproj.GenerateResource.cache
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.csproj.CoreCompileInputs.cache
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.exe
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.pdb
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\ViewingAgents.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave_Content.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\EntityFramework.dll
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\EntityFramework.xml
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bette\Desktop\GlazkiSave\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\ViewingAgents.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.csproj.CopyComplete
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\AddAgents.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\AddAgents.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\Priority.g.cs
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\Pages\Priority.baml
+C:\Users\bette\Desktop\GlazkiSave\obj\Debug\GlazkiSave.csproj.AssemblyReference.cache
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\GlazkiSave.exe.config
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\GlazkiSave.exe
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\GlazkiSave.pdb
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\EntityFramework.dll
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\EntityFramework.xml
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programming\Готовые проекты\GlazkiSave\bin\Debug\ru\EntityFramework.resources.dll
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\MainWindow.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\AddAgents.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\Priority.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\ViewingAgents.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\App.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave_Content.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave_MarkupCompile.cache
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave_MarkupCompile.lref
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\App.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\MainWindow.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\AddAgents.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\Priority.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\Pages\ViewingAgents.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\StyleProject.baml
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.g.resources
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.Properties.Resources.resources
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.csproj.GenerateResource.cache
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.csproj.CoreCompileInputs.cache
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.csproj.CopyComplete
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.exe
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.pdb
+D:\Programming\Готовые проекты\GlazkiSave\obj\Debug\GlazkiSave.csproj.AssemblyReference.cache

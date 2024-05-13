@@ -1,0 +1,33 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:classes="clr-namespace:GlazkiSave.Classes">
+
+
+    <SolidColorBrush x:Key="foucusColor" Color="#B175EE"/>
+    <SolidColorBrush x:Key="additionColor" Color="#FFE9F9"/>
+    <SolidColorBrush x:Key="mainColor" Color="#FFFFFF"/>
+
+    <FontFamily x:Key="newFontFamily">Century Gothic</FontFamily>
+
+    <classes:ConvertImage x:Key="imageConvert"/>
+
+
+    <Style TargetType="Window" BasedOn="{StaticResource {x:Type Window}}" >
+        <Setter Property="Background" Value="{StaticResource mainColor}"/>
+        <Setter Property="Height" Value="670"/>
+        <Setter Property="Width" Value="850"/>
+        <Setter Property="MinHeight" Value="670"/>
+        <Setter Property="MinWidth" Value="850"/>
+    </Style>
+
+    <BitmapImage x:Key="DefaultImage" UriSource="Images\picture.png"/>
+
+    <BitmapImage x:Key="imageForCostWindow" UriSource="Images\Глазки-save.png"/>
+
+
+
+    <Style BasedOn="{StaticResource {x:Type Button}}" TargetType="Button">
+        <Setter Property="Background" Value="{StaticResource foucusColor}"/>
+        <Setter Property="Padding" Value="13 3"/>
+    </Style>
+
+</ResourceDictionary>

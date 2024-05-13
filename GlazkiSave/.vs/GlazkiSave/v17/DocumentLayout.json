@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\styleproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:styleproject.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\classes\\convertimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:classes\\convertimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\classes\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:classes\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\addagents.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\addagents.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\addagents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\addagents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\viewingagents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\viewingagents.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\priority.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\priority.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\priority.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\priority.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|d:\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\glazkisave\\pages\\viewingagents.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{086D9976-81D9-4AEE-82ED-B3CBD3F1A7FB}|GlazkiSave.csproj|solutionrelative:pages\\viewingagents.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T16:08:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StyleProject.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\StyleProject.xaml",
+              "RelativeDocumentMoniker": "StyleProject.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\StyleProject.xaml",
+              "RelativeToolTip": "StyleProject.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:08:38.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:08:35.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-13T16:06:25.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAgents.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\AddAgents.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\AddAgents.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\AddAgents.xaml.cs",
+              "RelativeToolTip": "Pages\\AddAgents.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:06:45.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Priority.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\Priority.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Priority.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\Priority.xaml.cs",
+              "RelativeToolTip": "Pages\\Priority.xaml.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:06:14.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViewingAgents.xaml.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\ViewingAgents.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ViewingAgents.xaml.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\ViewingAgents.xaml.cs",
+              "RelativeToolTip": "Pages\\ViewingAgents.xaml.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:06:07.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewingAgents.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\ViewingAgents.xaml",
+              "RelativeDocumentMoniker": "Pages\\ViewingAgents.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\ViewingAgents.xaml",
+              "RelativeToolTip": "Pages\\ViewingAgents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:06:05.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Priority.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\Priority.xaml",
+              "RelativeDocumentMoniker": "Pages\\Priority.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\Priority.xaml",
+              "RelativeToolTip": "Pages\\Priority.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:06:04.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddAgents.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\AddAgents.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddAgents.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Pages\\AddAgents.xaml",
+              "RelativeToolTip": "Pages\\AddAgents.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:06:01.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T16:05:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Classes\\Storage.cs",
+              "RelativeDocumentMoniker": "Classes\\Storage.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Classes\\Storage.cs",
+              "RelativeToolTip": "Classes\\Storage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:05:55.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConvertImage.cs",
+              "DocumentMoniker": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Classes\\ConvertImage.cs",
+              "RelativeDocumentMoniker": "Classes\\ConvertImage.cs",
+              "ToolTip": "D:\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B \u0434\u043B\u044F \u0433\u0438\u0442\u0430\\GlazkiSave\\Classes\\ConvertImage.cs",
+              "RelativeToolTip": "Classes\\ConvertImage.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:05:52.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

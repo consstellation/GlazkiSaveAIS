@@ -1,0 +1,141 @@
+﻿<Page x:Class="GlazkiSave.Pages.ViewingAgents"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:GlazkiSave.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ViewingAgents"
+      FontFamily="{StaticResource newFontFamily}"
+      Loaded="Page_Loaded">
+
+    <Grid Background="White">
+        <Grid Margin="12,10,10,0" HorizontalAlignment="Center" Width="778" Height="45" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+
+            </Grid.ColumnDefinitions>
+
+            <TextBox Grid.Column="0" VerticalAlignment="Center" Margin="15,0,15,0" BorderBrush="{StaticResource foucusColor}" TextChanged="textBoxSearch_TextChanged" x:Name="textBoxSearch">
+                <TextBox.Style>
+                    <Style TargetType="TextBox" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+                        <Style.Resources>
+                            <VisualBrush x:Key="CueBannerBrush" AlignmentX="Left" AlignmentY="Center" Stretch="None">
+                                <VisualBrush.Visual>
+                                    <Label Content="Поиск" Foreground="Gray" />
+                                </VisualBrush.Visual>
+                            </VisualBrush>
+                        </Style.Resources>
+                        <Style.Triggers>
+                            <Trigger Property="Text" Value="{x:Static sys:String.Empty}">
+                                <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                            </Trigger>
+                            <Trigger Property="Text" Value="{x:Null}">
+                                <Setter Property="Background" Value="{StaticResource CueBannerBrush}" />
+                            </Trigger>
+                            <Trigger Property="IsKeyboardFocused" Value="True">
+                                <Setter Property="Background" Value="White" />
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </TextBox.Style>
+
+            </TextBox>
+            <ComboBox Grid.Column="1" VerticalAlignment="Center" Margin="15,0,15,0"  BorderThickness="3" BorderBrush="{StaticResource foucusColor}"  DisplayMemberPath="Title" SelectionChanged="filterBox_SelectionChanged" x:Name="filterBox"/>
+            <ComboBox Grid.Column="2" VerticalAlignment="Center" Margin="15,0,15,0"  BorderThickness="3" BorderBrush="{StaticResource foucusColor}" x:Name="sortyBox" SelectionChanged="sortyFilter_SelectionChanged">
+                <ComboBoxItem Content="Отсутствует"/>
+                <ComboBoxItem Content="Наименование (возрастание)"/>
+                <ComboBoxItem Content="Наименование (убывание)"/>
+                <ComboBoxItem Content="Размер скидки (возрастание)"/>
+                <ComboBoxItem Content="Размер скидки (убывание)"/>
+                <ComboBoxItem Content="Приоритет (возрастание)"/>
+                <ComboBoxItem Content="Приоритет (убывание)"/>
+            </ComboBox>
+
+            <Button Grid.Column="3" Margin="15,8,10,8" x:Name="changePriorityButton" Content="Изменить приоритет" VerticalAlignment="Center" Click="changePriorityButton_Click"/>
+        </Grid>
+
+        <ListView x:Name="listViewAgents" Margin="12,60,10,85" SelectionMode="Multiple" SelectionChanged="listViewAgents_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Height="100">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="150"/>
+                            <ColumnDefinition Width="280"/>
+                            <ColumnDefinition Width="140"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Grid.Column="0" Source="{Binding Logo, Converter={StaticResource imageConvert}, TargetNullValue={StaticResource DefaultImage}}" Stretch="Uniform" HorizontalAlignment="Center"/>
+
+
+                        <StackPanel Grid.Column="1" VerticalAlignment="Center" Margin="5">
+
+                            <TextBlock TextWrapping="Wrap" FontSize="12" FontFamily="{StaticResource newFontFamily}">
+                                <Run Text="{Binding AgentType.Title}"/>
+                                <Run Text=" "/><Run Text="|"/>
+                                <Run Text=" "/>
+                                <Run Text="{Binding Title}"/>
+                            </TextBlock>
+
+                            <TextBlock FontSize="12" Text="0 продаж за год" FontFamily="{StaticResource newFontFamily}"/>
+                            <TextBlock FontSize="12" Text="{Binding Phone}"  FontFamily="{StaticResource newFontFamily}"/>
+
+                            <TextBlock>
+                                <Run Text="Наличие на складе:"/>
+                                <Run Text="{Binding Priority}"/>
+                            </TextBlock>
+                            
+                        </StackPanel>
+
+                        <TextBlock HorizontalAlignment="Right" Text="0%" Grid.Column="2"/>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Grid Margin="105,0,53,21" HorizontalAlignment="Center" VerticalAlignment="Bottom" Width="702">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="19*"/>
+                <RowDefinition Height="6*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+
+
+            <Button Grid.Column="0" Content="Добавить"  VerticalAlignment="Top" Margin="15,0,15,0" x:Name="addButton" Click="addButton_Click" Grid.RowSpan="2"/>
+            <Button Grid.Column="1" Content="Редактировать" VerticalAlignment="Top" Margin="15,0,15,0" x:Name="editButton" Click="editButton_Click" Grid.RowSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=listViewAgents, Path=SelectedItems.Count}" Value="0">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <Button Grid.Column="2" Content="Удалить" VerticalAlignment="Top" Margin="15,0,15,0"  x:Name="deleteButton" Click="deleteButton_Click" Grid.RowSpan="2">
+                <Button.Style>
+                    <Style TargetType="Button" BasedOn="{StaticResource {x:Type Button}}">
+                        <Style.Triggers>
+                            <DataTrigger Binding="{Binding ElementName=listViewAgents, Path=SelectedItems.Count}" Value="0">
+                                <Setter Property="IsEnabled" Value="False"/>
+                            </DataTrigger>
+                        </Style.Triggers>
+                    </Style>
+                </Button.Style>
+            </Button>
+            <TextBlock x:Name="countTextBlock" Grid.Column="3" Margin="0,0,10,0" Grid.RowSpan="2" />
+        </Grid>
+
+    </Grid>
+</Page>
+<!--//чтобы открыть код, сочетание клавиш ctrl + M,  ctrl + L-->
